@@ -1,0 +1,11 @@
+packages
+
+- pandas 
+- numpy 
+- nltk
+- xlsx
+- azure-storage-blob
+- fuzzywuzzy
+- yaml 
+- flask
+- flask_restful

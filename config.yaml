@@ -1,0 +1,4 @@
+azure_storage_connectionstring : "https;AccountName=taxonomy1;AccountKey=VNsOr8F7H9MwTcUOjtnKVv6LP5R6edR/4AMpLax2oe4pWqst44DSqm/SuiXto4sbb04E+1lIJKsJwFnDBFmh+Q==;EndpointSuffix=core.windows.net"
+input_description : "input_data"
+CONTAINER_NAME : "taxonomy1"
+ACCNT_KEY: "VNsOr8F7H9MwTcUOjtnKVv6LP5R6edR/4AMpLax2oe4pWqst44DSqm/SuiXto4sbb04E+1lIJKsJwFnDBFmh+Q=="
